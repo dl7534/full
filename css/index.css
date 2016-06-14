@@ -811,6 +811,8 @@ input {
   margin: 0;
   text-align: left;
   height: 69px;
+  position: absolute;
+  bottom: 80px;
 }
 
 #section5 .tableCell .container .inner-container-left .transfer-container {
